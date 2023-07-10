@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i a '^[a-z]'
+grep -i '^[a-z]'
